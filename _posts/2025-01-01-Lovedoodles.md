@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lovedoodles 
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Lovedoodles
+subtitle: Excerpt from Soulshaping by MARCEL Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
